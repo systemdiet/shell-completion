@@ -1,0 +1,8 @@
+/Makefile
+/Makefile.in
+aclocal.m4
+config.log
+config.status
+configure
+install-sh
+missing
